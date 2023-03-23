@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sardor-wd/sardor-wd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Python Developer from Uzbekistan 
 
-- 📫 How to reach me: @sardor-wd
+### 📫 How to reach me: @sardor-wd
 
