@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Python Developer</h1>
+<h1 align="center">Hi 👋, I'm Sardor</h1>
 <h3 align="center">A passionate python developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on **PriceHub**
