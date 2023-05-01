@@ -6,15 +6,13 @@ compositions.</h4>
 
 ### ✍️ Languages
 
-| Frontend                                                       | Backend                                                        |
-| -------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white) |
-| ![SCSS](https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) |
-| ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white) | |
-
-
+| Frontend                                                       | Backend                                                        | Others                                                         |
+| -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white) | |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) | |
+| ![SCSS](https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white) | | |
+| ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white) | | |
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardor-wd&layout=compact&theme=dark&)
