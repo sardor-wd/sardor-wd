@@ -19,7 +19,7 @@ compositions.</h4>
 
 ### ❤️ GitHub Stats
 
-![Sardor's github stats](https://github-readme-stats.vercel.app/api?username=sardor-code&show_icons=true)
+![Sardor's github stats](https://github-readme-stats.vercel.app/api?username=sardor-wd&show_icons=true)
 
 <div >
   <a href="https://sardorweb-portfolio.netlify.app">
