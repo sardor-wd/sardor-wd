@@ -39,15 +39,15 @@ compositions.</h4>
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="#" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      <a href="https://t.me/sardor_wd" target="blank"><img align="center"
+         src="https://img.shields.io/badge/telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram&logoColor=white"
          alt="#" height="30"/></a>
-      <a href="#" target="blank"><img align="center"
+      <a href="https://mail.ru" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="#" height="30"/></a>
     </p>
   <p align="center">
-      <a href="#" target="blank"><img align="center"
+      <a href="https://instamgram.com/sardor_web" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="#" height="30"/></a>
       <br>
