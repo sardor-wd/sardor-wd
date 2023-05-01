@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sardorbek</h1>
-<h4 align="center">Frontend engineer with ability to learn and collaborate in rapidly changing environments and
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sardor</h1>
+<h4 align="center">Full-stack developer with ability to learn and collaborate in rapidly changing environments and
 compositions.</h4>
 </div>
 
 ### ✍️ Languages
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![SCSS](<https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white>) ![Vue](<https://img.shields.io/badge/-Vue-rgb(224,%2022,%20157)?style=flat&logo=Vue.js&logoColor=white>)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![SCSS](<https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white>) ![Vue](<https://img.shields.io/badge/-Vue-#4FC08D?style=flat&logo=Vue.js&logoColor=white>)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammadr1zo&layout=compact)
 
