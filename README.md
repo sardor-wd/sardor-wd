@@ -15,7 +15,7 @@ compositions.</h4>
 ![Codewars](https://www.codewars.com/users/sardor-web/badges/micro)
 
 ### 🛠 Tech Stack and Tools
-<img src="https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=&logoColor=White"/>
+<img src="https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=Python &logoColor=White"/>
 
 ### ❤️ GitHub Stats
 
