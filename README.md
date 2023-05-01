@@ -28,12 +28,6 @@ compositions.</h4>
 
 ![Sardor's github stats](https://github-readme-stats.vercel.app/api?username=sardor-wd&theme=dark&show_icons=true)
 
-<div >
-  <a href="sardor-web.uz">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <details>
   <summary>☎️ Contact me</summary>
 <div>
