@@ -15,11 +15,11 @@ compositions.</h4>
 ![Codewars](https://www.codewars.com/users/sardor-web/badges/micro)
 
 ### 🛠 Tech Stack and Tools
-![Vue](<https://img.shields.io/badge/-Vue-rgb(224,%2022,%20157)?style=flat&logo=Vue&logoColor=white>)
+![Vue](<https://img.shields.io/badge/-Vue-rgb(224,%2022,%20157)?style=flat&logo=Vue.js&logoColor=white>)
 
 ### ❤️ GitHub Stats
 
-![Aardor's github stats](https://github-readme-stats.vercel.app/api?username=sardor-code&show_icons=true)
+![Sardor's github stats](https://github-readme-stats.vercel.app/api?username=sardor-code&show_icons=true)
 
 <div >
   <a href="https://sardorweb-portfolio.netlify.app">
