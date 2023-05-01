@@ -1,17 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sardor</h1>
-<h3 align="center">A passionate Fullstack developer from Uzbekistan</h3>
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sardorbek</h1>
+<h4 align="center">Frontend engineer with ability to learn and collaborate in rapidly changing environments and
+compositions.</h4>
+</div>
 
-- 🔭 I’m currently working on **PriceHub**
+### ✍️ Languages
 
-- 👨‍💻 All of my projects are available at [@sardor-wd](@sardor-wd)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![SCSS](<https://img.shields.io/badge/-SCSS-rgb(224,%2022,%20157)?style=flat&logo=sass&logoColor=white>)
 
-- 📫 How to reach me **absamatovs7@gmail.com**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhammadr1zo&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sardor_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sardor_web" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@darkness_steam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@darkness_steam" height="30" width="40" /></a>
-</p>
+### 💻 Codewars
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+![Codewars](https://www.codewars.com/users/sardor-web/badges/micro)
+
+### 🛠 Tech Stack and Tools
+| End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) | !    ![IDE](https://img.shields.io/badge/-IDE-black?style=flat) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)   
+ | ![Others](https://img.shields.io/badge/-Others-black?style=flat)         | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+
+[github-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
+[gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-black?style=flat
+[gcw]: https://github.com/sardor-code
+
+### ❤️ GitHub Stats
+
+![Aardor's github stats](https://github-readme-stats.vercel.app/api?username=sardor-code&show_icons=true)
+
+<div >
+  <a href="https://sardorweb-portfolio.netlify.app">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<details>
+  <summary>☎️ Contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="#" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="#" height="30"/></a>
+      <a href="#" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="#" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="#" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="#" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
+
+<details>
+  <summary>🧮 About</summary>
+<div>
+<h2 align="center">🧮 About this Account</h2>
+ <p align="center">
+  I’m a junior full-stack developer looking for a new role in an exciting company. I focus on
+writing accessible HTML, using modern CSS practices and writing clean JavaScript. When
+writing JavaScript code, I mostly use Vue, but I can adapt to whatever tools are required. I’m
+based in Samarkand, Uzbekistan, but I’m happy working remotely and have experience in remote
+teams. When I’m not coding, you’ll find me outdoors.
+ </p>
+</div>
+</details>
