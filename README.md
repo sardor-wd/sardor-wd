@@ -14,15 +14,12 @@ compositions.</h4>
 
 ![Codewars](https://www.codewars.com/users/sardor-web/badges/micro)
 
-### 🛠 Tech Stack and Tools
-
-
 ### ❤️ GitHub Stats
 
 ![Sardor's github stats](https://github-readme-stats.vercel.app/api?username=sardor-wd&show_icons=true)
 
 <div >
-  <a href="https://sardorweb-portfolio.netlify.app">
+  <a href="sardor-web.uz">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
