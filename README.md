@@ -14,20 +14,6 @@ compositions.</h4>
 | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white) | | |
 
 
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardor-wd&layout=compact&theme=dark&)
-
-### 💻 Codewars
-
-![Codewars](https://www.codewars.com/users/sardor-web/badges/micro)
-
-### ❤️ GitHub Stats
-
-![Sardor's github stats](https://github-readme-stats.vercel.app/api?username=sardor-wd&theme=dark&show_icons=true)
-
 <details>
   <summary>☎️ Contact me</summary>
 <div>
@@ -49,19 +35,5 @@ compositions.</h4>
       <br>
     </p>
   </samp>
-</div>
-</details>
-
-<details>
-  <summary>🧮 About</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="center">
-  I’m a junior full-stack developer looking for a new role in an exciting company. I focus on
-writing accessible HTML, using modern CSS practices and writing clean JavaScript. When
-writing JavaScript code, I mostly use Vue, but I can adapt to whatever tools are required. I’m
-based in Samarkand, Uzbekistan, but I’m happy working remotely and have experience in remote
-teams. When I’m not coding, you’ll find me outdoors.
- </p>
 </div>
 </details>
