@@ -18,7 +18,7 @@ compositions.</h4>
   <summary>☎️ Contact me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://t.me/sardor_wd" target="blank"><img align="center"
