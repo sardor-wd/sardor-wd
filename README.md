@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sardor</h1>
-<h4 align="center">Full-stack developer with ability to learn and collaborate in rapidly changing environments and
+<h4 align="center">Junior Frontend developer with ability to learn and collaborate in rapidly changing environments and
 compositions.</h4>
 </div>
 
