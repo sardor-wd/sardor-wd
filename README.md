@@ -1,4 +1,4 @@
-# Hi, i'm [Sardor]!
+# Hi, i'm [Sardor] !
 
 Here I will show my progress in learning different things, and in the future I will share various projects!
 
