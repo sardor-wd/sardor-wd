@@ -12,4 +12,4 @@ Here I will show my progress in learning different things, and in the future I w
 
 <!-- dark -->
 
-[sardor-wd]:https://github.com/sardor-wd
+[Sardor]:https://github.com/sardor-wd
