@@ -6,10 +6,10 @@ Here I will show my progress in learning different things, and in the future I w
 
 - I am in the process of learning Vue.
 
-- I am trying to code.
+- I am trying to eat-sleep-code repeat.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,html,css,python,django,postgres,nodejs,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,html,css,python,django,postgres,nodejs,docker,nginx,gulp)](https://skillicons.dev)
 
 ###### Over time, I will supplement this information...
 
