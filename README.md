@@ -8,7 +8,6 @@ Here I will show my progress in learning different things, and in the future I w
 
 - I am trying to eat-sleep-code repeat.
 
-<h3>Languages and tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=js,vue,html,css,python,django,postgres,nodejs,docker,nginx,gulp)](https://skillicons.dev)
 
 ###### Over time, I will supplement this information...
