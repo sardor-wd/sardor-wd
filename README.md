@@ -1,12 +1,5 @@
-# Hi, i'm [Sardor] !
-
-Here I will show my progress in learning different things, and in the future I will share various projects!
-
-- I am interested in and studying the Python programming language.
-
-- I am in the process of learning Vue.
-
-- I am trying to eat-sleep-code repeat.
+# Hey There! 👋
+**I'm Sardor** - I'm a fullstack developer, designer, moderator, and middle school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 [![My Skills](https://skillicons.dev/icons?i=js,vue,html,css,python,django,postgres,nodejs,docker,nginx,gulp)](https://skillicons.dev)
 
